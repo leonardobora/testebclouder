@@ -1,0 +1,17 @@
+Leonardo Bora 
+
+Ao analisar as informações apresentadas nas tabelas, observei alguns pontos que podem indicar questões de integridade nos dados:
+
+1) Vendedores
+- o campo id é uma PRIMARY KEY única, garantindo a integridade referencial do mesmo. 
+- a inclusão da cidade do vendedor na tabela é útil, mas uma alternativa seria referenciar a cidade por meio de uma FOREIGN KEY, caso exista uma tabela só para as cidades. 
+
+2)Vendas e Devoluções
+- o campo "vendedor" é uma FOREIGN KEY que referencia a tabela vendedores. É fundamental ter certeza de que todos os vendedores listados nas vendas realmente existam na tabela de origem, para garantir a integridade.
+
+3)Datas
+- Estabelecer um padrão para o formato das datas é crucial para manter a integridade temporal, ou seja, para evitar problemas de formatação futuros.
+
+Essas são minhas observações iniciais, e estou ciente de que, como candidato a estagiário, estou em constante aprendiado. Na faculdade tive as matérias de Banco de Dados I e II, onde exercitamos nossos conhecimentos em SQL e também em MongoDB. Trabalhar com dados é interessante quando tudo está bem organizado, rs. 
+
+Agradeço a oportunidade de participar do processo seletivo, e fico à disposição para maiores questionamentos.

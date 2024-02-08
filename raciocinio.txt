@@ -1,0 +1,39 @@
+1) Formação de alunos na escola
+
+Resposta: d) 113
+
+Somei 4+5, 9, depois fiz a média, 4,5. Multipliquei por 25 que deu 112,5. Arredondei para 113. 
+
+2) Fábrica de equipamentos elétricos 
+
+Resposta: d) 285
+
+G33 A G48 = 16 máquinas vendidas
+
+H01 A H48 = 48 máquinas vendidas
+
+I01 A I48 = 48 máquinas vendidas
+
+J01 A J48 = 48 máquinas vendidas
+
+K01 A K48 = 48 máquinas vendidas
+
+L01 A L48 = 48 máquinas vendidas
+
+M01 A M29 = 29 máquinas vendidas
+
+Logo: 48 * 5 = 240 + 16 + 29 => 285
+
+3) Apolo
+
+Resposta: a) 2 metros a Leste
+
+Oeste-   4metros  ._________       2 metros A______3 metros-Leste
+
+4) Pedro e Mônica
+
+Resposta: b) 7 pessoas.
+
+Total = 23 pessoas.
+
+17 + 13 = 30 => 30 - 23 = 7 pessoas.
